@@ -23,6 +23,12 @@
 </head>
 <body>
 
+<h1 style="margin-top: 0;">[ MEME_OS_v1.0 ]</h1>
+  <p style="margin-bottom: 20px;">Your daily dose of digital brain rot.</p>
+  
+  <div id="meme-container" style="background: #222; border: 2px dashed #00ff00; margin: 20px 0; min-height: 300px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+      <img src="https://i.imgflip.com/30zz5g.jpg" alt="Initial Meme" style="max-width: 100%; height: auto;">
+  </div>
   <h1>Welcome to 6767</h1>
   <p class="utar-text">Welcome to my Project under UTAR sponsorship</p>
 
